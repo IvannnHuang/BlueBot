@@ -1,0 +1,2 @@
+C:\Users\qijin\Documents\College Works\2024 Spring\Ece3140\Final Project\Final_Project\drivers/fsl_clock.h:643:20:CLOCK_SetLpsci0Clock	16	static
+../board/board.c:54:6:BOARD_InitDebugConsole	16	static

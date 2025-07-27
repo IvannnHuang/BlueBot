@@ -1,0 +1,5 @@
+C:\Users\qijin\Documents\College Works\2024 Spring\Ece3140\Final Project\frdmkl46z_hello_world\drivers/fsl_adc16.h:386:20:ADC16_EnableHardwareTrigger	16	static
+C:\Users\qijin\Documents\College Works\2024 Spring\Ece3140\Final Project\frdmkl46z_hello_world\drivers/fsl_adc16.h:504:24:ADC16_GetChannelConversionValue	16	static
+../source/hello_world.c:17:6:ADC_init	24	static
+../source/hello_world.c:31:10:analogRead	24	static
+../source/hello_world.c:44:5:main	24	static

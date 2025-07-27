@@ -1,0 +1,14 @@
+C:\Users\qijin\Documents\College Works\2024 Spring\Ece3140\Final Project\Final_Project\CMSIS/core_cm0plus.h:733:22:__NVIC_EnableIRQ	16	static
+C:\Users\qijin\Documents\College Works\2024 Spring\Ece3140\Final Project\Final_Project\CMSIS/core_cm0plus.h:840:22:__NVIC_SetPriority	24	static
+../source/process_ref.c:42:13:process_free	16	static
+../source/process_ref.c:48:6:dummy_process	8	static
+../source/process_ref.c:53:6:process_start	8	static
+../source/process_ref.c:72:6:PIT1_Service	8	static
+../source/process_ref.c:87:5:process_create	24	static
+../source/process_ref.c:110:5:process_rt_create	32	static
+../source/process_ref.c:145:6:deadline_sort	24	static
+../source/process_ref.c:172:6:arrival_sort	24	static
+../source/process_ref.c:199:6:deadline_enqueue_and_sort	24	static
+../source/process_ref.c:221:6:arrival_enqueue_and_sort	24	static
+../source/process_ref.c:243:5:arrived	16	static
+../source/process_ref.c:253:16:process_select	24	static
