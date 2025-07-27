@@ -1,7 +1,7 @@
 # BluBop: Joystick-Driven Earthquake Response Robot
 
 **BluBop** is a two-wheeled robot designed to navigate using joystick input—unless interrupted by earthquake-like vibrations. When the vibration sensor detects high activity, BluBop halts and signals that movement is unsafe. The system combines analog and digital signal processing, PWM motor control, and vibration safety logic.
-> 📎 [View Full Project Report and Demo] (https://pages.github.coecis.cornell.edu/ece3140-sp2024/atu2-qh229-tc543/)
+> 📎 [View Full Project Report and Demo] [report] (https://pages.github.coecis.cornell.edu/ece3140-sp2024/atu2-qh229-tc543/)
 
 ---
 
